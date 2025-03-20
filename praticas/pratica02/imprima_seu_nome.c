@@ -1,6 +1,6 @@
 #include <stdio.h>
 int main(){
-    printf("Lucas Do Nascimento Brito");
+    printf("Lucas Do Nascimento Brito\n");
      
     return 0;
 }
